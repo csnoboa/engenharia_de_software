@@ -1,0 +1,25 @@
+Notícias e Informações sobre a Disciplina:
+------------------------------------------
+
+Dados do Professor:
+Paulo Cézar Stadzisz
+e-mail: stadzisz@utfpr.edu.br
+Linkedin e face com próprio nome
+Fone: 3310-4764 (pouco viável durante a pandemia)
+
+Link para a sala de aulas:
+
+https://join.skype.com/jMSAF33Ds2TJ
+
+Obs.:
+- abrir o link no navegador.
+- não é necessário instalar ou ter conta no Skype
+- se tiver conta, poderá usar o Skype para comunicações off-line.
+
+PRIMEIRO TRABALHO DA DISCIPLINA
+Enunciado: Elaborar um relatório sobre "Tendências em Engenharia de Software" a partir de pesquisas na internet. Pode-se, inclusive, utilizar o Google Scholar para buscar artigos internacionais a respeito. O objetivo é checar o que se imagina ou o que está sendo proposto para modernizar a Engenharia de Software para o futuro. É desejável citar as fontes das afirmações (autores, artigos, sites pesquisados).
+Observações: 
+- o trabalho deve ser feito individualmente
+- deve conter, pelo menos, 3 páginas, sem contar capa nem bibliográfica.
+- data de entrega: 29/03/2021, por e-mail (stadzisz@utfpr.edu.br)
+
